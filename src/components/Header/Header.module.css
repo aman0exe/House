@@ -1,0 +1,16 @@
+header{
+    background-color: #25B8E7;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+}
+header h1{
+    color: #fff;
+    width: fit-content;
+}
+.link{
+    color: white !important;
+    text-decoration: none;
+}

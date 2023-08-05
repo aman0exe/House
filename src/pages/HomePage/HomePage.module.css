@@ -1,0 +1,15 @@
+.announsments{
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 95%;
+    margin: 0 auto;
+}
+.footer{
+    margin-top: 70px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
